@@ -1,2 +1,6 @@
 hbhb
+<<<<<<< Updated upstream
 byee
+=======
+huhu
+>>>>>>> Stashed changes
